@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * putchar
-**/
+ * main -prints putchar as a message.
+*
+* Return; always 0 (Success)
+*/
 int main(void)
 {
 	_putchar('_');
