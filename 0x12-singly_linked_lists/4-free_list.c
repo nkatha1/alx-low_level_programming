@@ -1,6 +1,6 @@
 /*
  * File: 4-free_list.c
- * Auth: Solomon Kassa
+ * Auth: Patience Nkatha
  */
 
 #include "lists.h"

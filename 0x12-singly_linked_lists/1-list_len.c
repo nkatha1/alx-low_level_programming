@@ -1,6 +1,6 @@
 /*
  * File: 1-list_len.c
- * Author : Solomon Kassa
+ * Author: Patience Nkatha
  */
 
 #include "lists.h"
