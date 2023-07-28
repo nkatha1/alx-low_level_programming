@@ -2,22 +2,22 @@
 #define LISTS_H
 
 /*
- * Filename: lists.h
- * Author Patience Nkatha
- * Desc: Header file containing prototypes and definitions for functions
- *       and types written in  0x12-singly_linked_lists
+ * File: lists.h
+ * Auth: Patience Nkatha
+ * Desc: Header file containing prototypes and definitions
+ *
  */
 
-#include <stdli.h>
+#include <stdlib.h>
 
 /**
  * struct list_s - singly linked list
- * @str: string - (malloc string)
+ * @str: string - (malloc'ed string)
  * @len: length of the string
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- *              for Alx project
+ *
  */
 typedef struct list_s
 {
