@@ -2,17 +2,17 @@
 #define LISTS_H
 
 /*
- * File: lists.h
- * Auth: Solomon Kassa
- * Desc: Header file containing prototypes and definitions for all functions
- *       and types written in the 0x11-singly_linked_lists directory.
+ * Filename: lists.h
+ * Author Patience Nkatha
+ * Desc: Header file containing prototypes and definitions for functions
+ *       and types written in  0x12-singly_linked_lists
  */
 
-#include <stdlib.h>
+#include <stdli.h>
 
 /**
  * struct list_s - singly linked list
- * @str: string - (malloc'ed string)
+ * @str: string - (malloc string)
  * @len: length of the string
  * @next: points to the next node
  *
