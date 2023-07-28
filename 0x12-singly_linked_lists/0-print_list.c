@@ -1,6 +1,6 @@
 /*
  * File: 0-print_list.c
- * Auth: Solomon Kassa
+ * Author:Patience Nkatha
  */
 
 #include "lists.h"
