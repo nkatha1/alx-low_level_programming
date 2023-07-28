@@ -4,8 +4,8 @@
 /*
  * Filename: lists.h
  * Author Patience Nkatha
- * Desc: Header file containing prototypes and definitions for functions
- *       and types written in  0x12-singly_linked_lists
+ * Desc: Header file containing prototypes and definitions
+ *
  */
 
 #include <stdli.h>
@@ -32,4 +32,4 @@ list_t *add_node(list_t **head, const char *str);
 list_t *add_node_end(list_t **head, const char *str);
 void free_list(list_t *head);
 
-#endif /* LISTS_H */
+#endif /* LISTS_H*/
