@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_bit - Value of a bit at a given index it 
+ * get_bit - Value of a bit at a given index it
  * returns it.
  * @l: Long integer input that is unasigned.
  * @index: The bit index.
