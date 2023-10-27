@@ -1,1 +1,1 @@
-bit mabit manipulation tasks that contains the crackme password
+Bit manipulation tasks containing the crackme password
