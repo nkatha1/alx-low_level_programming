@@ -1,1 +1,1 @@
-Bit manipulation tasks containing the crackme password
+my bit tasks
